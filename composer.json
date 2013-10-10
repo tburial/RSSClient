@@ -1,13 +1,13 @@
 {
     "name": "tburial/rss-client",
-    "description": "A simple to use RSS client library. Fork for Laravel.",
-    "keywords": ["rss"],
+    "description": "A simple to use RSS client library. Fork for Laravel",
+    "keywords": ["rss", "rss20", "feed", "feed parser", "atom10"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Terry Harmon",
-            "homepage": "http://polymorphdev.com"
+            "homepage": "http://desarrolla2.com/"
         }
     ],
     "require": {
