@@ -8,7 +8,13 @@ Fork of [https://github.com/desarrolla2/RSSClient](https://github.com/desarrolla
 ``` json
     "require": {
         "tburial/rss-client":  "dev-master"
-    }
+    },
+    "repositories": [
+		{
+		    "type": "vcs",
+		    "url": "https://github.com/tburial/RSSClient"
+		}
+    ],
 ```
 
 ## Example
